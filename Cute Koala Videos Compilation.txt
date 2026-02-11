@@ -1,0 +1,60 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+  <main>
+      <h1>My Favourite Koala Videos on YouTube</h1>
+      <p> Sit back, relax, and enjoy these super cute and funny koala videos!</p>
+
+      <section>
+          <h2>Koala Crying</h2>
+
+          <p>Watch how the koala reacts when it gets kicked out from the tree!</p>
+
+          <iframe
+          src="https://www.youtube.com/watch?v=O0cAx1jLbJk"
+          title="Koala crying"
+          height="300"
+          width="650">
+          </iframe>
+      </section>
+
+      <section>
+          <h2>Woman encounters Koala</h2>
+
+          <p>A koala showed up at this woman's porch!</p>
+
+          <iframe
+          src="https://www.youtube.com/watch?v=ry5jTvGPiH8"
+          title="Woman encounters koala"
+          height="300"
+          width="650">
+          </iframe>
+      </section>
+
+      <section>
+          <h2>Brave Koala</h2>
+
+          <p>A man found a koala on the side of the road, and its so cute but it threatens to attack! </p>
+
+          <iframe
+          src="https://www.youtube.com/watch?v=d3kTD1R4n94"
+          title="Koala on the roadside"
+          height="300"
+          width="650">
+          </iframe>
+      </section>
+  </main>
+</body>
+
+</html>
+
+** end of index.html **
+
