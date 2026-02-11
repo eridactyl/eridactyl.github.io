@@ -1,0 +1,63 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+  <header>
+    <h1>Event Hub</h1>
+    <nav>
+        <ul>
+            <li><a href="#upcoming-events">Upcoming Events</a></li>
+            <li><a href="#past-events">Past Events</a></li>
+        </ul>
+    </nav>
+  </header>
+
+  <main>
+      <section id="upcoming-events">
+        <h2>Upcoming Events</h2>
+        <article> 
+            <h3>Memorial of Jesus' Death</h3>
+            <p>At this important event, Jehovah's Witnesses commemorate the death of Jesus just as he commanded.—Luke 22:19.</p>
+            <time datetime="2026-04-12T19:00">Thursday, April 2, 2026</time>
+            <img height="200" src="https://cms-imgp.jw-cdn.org/img/p/1102026385/univ/art/1102026385_univ_lsr_lg.jpg" alt="Jesus praying">
+        </article>
+        
+
+        <article>
+            <h3>2026 Circuit Assembly with Branch Representative</h3>
+            <p>Come and join us for the theme, “Hear What the Spirit Says to the Congregations!"</p>
+            <time datetime="2026-03-29T10:00">Sunday, March 29, 2026</time>
+            <img height="200" src="https://cms-imgp.jw-cdn.org/img/p/1102026241/univ/art/1102026241_univ_lsr_lg.jpg" alt="Program picture">
+        </article>
+      </section>
+
+      <section id="past-events">
+        <h2>Past Events</h2>
+        <article>
+            <h3>2025 Convention of Jehovah's Witnesses</h3>
+            <p>We warmly invite you to come and learn what Jesus taught about pure worship at this year's three-day convention presented by Jehovah’s Witnesses!</p>
+            <img height="200"src="https://cms-imgp.jw-cdn.org/img/p/1102025193/univ/art/1102025193_univ_lsr_lg.jpg" alt="Jesus and John the Baptist in the river">
+        </article>
+
+        <article>
+          <h3>2025 Memorial of Jesus' Death</h3>
+          <p>Once each year, Jehovah's Witnesses commemorate the death of Jesus just as he commanded when he said: “Keep doing this in remembrance of me.”—Luke 22:19.</p>
+          <img height="200" src="https://cms-imgp.jw-cdn.org/img/p/500900021/univ/wpub/500900021_univ_cnt_1_lg.jpg" alt="2025 Memorial photo">
+        </article>
+      </section>
+  </main>
+
+
+</body>
+
+</html>
+
+** end of index.html **
+
