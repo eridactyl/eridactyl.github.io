@@ -1,0 +1,42 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+   <meta name="description" content="Paradise beaches, exotic food, and more!">
+   <title>Erica's Travels</title> 
+  </head>
+  <body>
+    <h1>Visit the Philippines</h1>
+    <p>With white-sand beaches, exotic food, and beautiful landscapes, visiting Philippines is like living in paradise!</p>
+    <h2>Packages</h2>
+    <p>We offer a variety of packages that fits everyones needs. Find one that works for you!</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+      </ul>
+      <h2>Top Itineraries</h2>
+      <figure>
+       <a href="https://www.freecodecamp.org/learn" target="_blank">
+         <img src="https://images.flashpack.com/2024/07/PH1_ItineraryDay50.jpg?w=256&h=256&ixlib=react-9.8.1" alt="blue ocean beach enclosed in rocks">
+         </a>
+        <figcaption>Bluebayu beach in Davao</figcaption>
+      </figure>
+            <figure>
+       <a href="https://www.freecodecamp.org/learn" target="_blank">
+         <img src="https://www.victoriatrails.com/images/photos/thumbnail/china-beach-5@2x.jpg" alt="Mossy rock beach">
+         </a>
+        <figcaption>Mossy Rock beach in Cebu</figcaption>
+      </figure>
+            <figure>
+       <a href="https://www.freecodecamp.org/learn" target="_blank">
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbH_TixsE7Rbh0orrhI7pDyJZn2iDSa1EV5Q&s" alt="big whale">
+         </a>
+        <figcaption>Swim with whales in Manila Bay!</figcaption>
+      </figure>
+  </body>
+</html>
+
+** end of index.html **
+
