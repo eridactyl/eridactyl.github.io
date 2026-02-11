@@ -1,0 +1,127 @@
+** start of index.html **
+
+<!DOCTYPTE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <title>Survey Form</title
+  </head>
+
+  <body>
+    <h1 id="title">Order a FREE Blindbox!</h1>
+    <p id="description">If you're seeing this form, that means you are eligible to order one (1) blindbox for free!</p>
+    
+      <p>(Note: Please allow approximately one month for order processing and delivery.)
+    </p>
+    
+    <form id="survey-form">
+
+
+
+      <label for="name" id="name-label">Name</label>
+      <input required id="name" type="text" placeholder="Enter your name">
+<br>
+
+      <label for="email" id="email-label">Email</label>
+      <input required id="email" type="email" placeholder="Enter your email">
+
+<br>
+      <label for="number" id="number-label">Age</label>
+      <input  required id="number" type="number" min="5" max="99" placeholder="Age">
+<br>
+<br>
+<label for="dropdown">What do you want for your blindbox?</label>
+<select id="dropdown" required>
+    <option selected>Choose an item</option>
+    <option>Toy</option>
+    <option>Hair accessory</option>
+    <option>Bag/purse</option>
+    <option>Keychain</option>
+    <option>Earrings</option>
+</select>
+
+<br><br>
+
+  <label>What size do you want your item to be? <em>(Please answer this question only if you selected a toy or a bag/purse)</em></label>
+<br>
+  <input checked id="small-size" value="small" type="radio" name="size">
+  <label for="small-size">Small (about 3 inches)</label>
+  <br>
+
+  <input id="medium-size" value="medium" type="radio" name="size">
+  <label for="medium-size">Medium (about 5 inches)</label>
+
+<br> 
+<input id="large-size" value="large" type="radio" name="size">
+  <label for="large-size">Large (about 8 inches)</label>
+
+
+<br> <br>
+<fieldset>
+  <legend>What's your favourite colors? (select all that apply)</legend> 
+
+     <input id="red-option" value="red" type="checkbox" name="colors"> <label for="red-option">Red</label>
+
+<input id="orange-option" value="orange" type="checkbox" name="colors"> 
+<label for="orange-option">Orange</label>
+
+<input id="yellow-option" value="yellow" type="checkbox" name="colors"> 
+<label for="yellow-option">Yellow</label>
+
+<input id="green-option" value="green" type="checkbox" name="colors"> 
+<label for="green-option">Green</label>
+
+<input id="blue-option" value="blue" type="checkbox" name="colors"> 
+<label for="blue-option">Blue</label>
+
+<input id="purple-option" value="purple" type="checkbox" name="colors"> 
+<label for="purple-option">Purple</label>
+
+<input id="pink-option" value="pink" type="checkbox" name="colors"> 
+<label for="pink-option">Pink</label>
+
+<input id="beige-option" value="beige" type="checkbox" name="colors"> 
+<label for="beige-option">Beige</label>
+
+<input id="brown-option" value="brown" type="checkbox" name="colors"> 
+<label for="brown-option">Brown</label>
+
+<input id="black-option" value="black" type="checkbox" name="colors"> 
+<label for="black-option">Black</label>
+
+<input id="black-option" value="black" type="checkbox" name="colors"> 
+<label for="black-option">Grey</label>
+
+<input id="white-option" value="white" type="checkbox" name="colors"> 
+<label for="white-option">White</label>
+</fieldset>
+
+<legend for="vibe-choose">Choose a vibe for your blindbox:</legend>
+<select id="vibe-choose">
+  <option selected>Cute</option>
+  <option>Funny/Memes</option>
+  <option>Minimalistic</option>
+  <option>Retro/90s</option>
+  <option>Dreamy/Y2K</option>
+  <option>Surprise me!</option>
+</select>
+<br><br>
+<label for="theme">Tell me the theme of your blindbox (ex. animals, floral, Hello Kitty, horses, etc.)</label>
+<br>
+<textarea id="theme"></textarea>
+<br><br>
+<label for="theme">Any comments or notes? Tell me here! <em>(Please allow approximately one month for order processing and delivery.)</em></label>
+<br>
+<textarea id="theme"></textarea>
+<br>
+
+<button id="submit">Submit</button>
+</form>
+
+  </body>
+
+</html>
+
+** end of index.html **
+
