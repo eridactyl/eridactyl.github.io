@@ -1,0 +1,36 @@
+** start of index.html **
+
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Movie Review</title>
+ </head>
+
+<body>
+<main>
+    <h1>Movie Review: Spider-man (2002)</h1>
+    <img height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmdLHys3rkC_13_PGgBrWvoUufM-LDnBx341ub8rIT3KWe80j3uEdO3IY9B_sG0WvoNr632A&s=10" alt="Movie cover shows closeup of Peter Parker in his spiderman suit clibming a tower">
+    <p>"Spider-Man" centers on student Peter Parker (Tobey Maguire) who, after being bitten by a genetically-altered spider, gains superhuman strength and the spider-like ability to cling to any surface. He vows to use his abilities to fight crime, coming to understand the words of his beloved Uncle Ben: "With great power comes great responsibility."</p>
+<p><strong>Movie Rating:</strong> <span aria-hidden="true">⭐⭐⭐⭐⭐⭐⭐☆☆☆</span> (7.4/10)</p>
+
+
+<h2>Cast Members</h2>
+<ul>
+    <li><strong>Tobey Maguire</strong> as Spider-Man, Peter Parker</li>
+    <li><strong>Kristen Dunst</strong> as Mary Jane</li>
+    <li><strong>James Franco</strong> as Harry Osborn</li>
+    <li><strong>Willem Dafoe</strong> as Green Goblin</li>
+    <li><strong>Rosemary Harris</strong> as Aunt May</li>
+    <li><strong>Cliff Robertson</strong> as Uncle Ben</li>
+
+</ul>
+</main>
+
+</body>
+
+</html>
+
+** end of index.html **
+
