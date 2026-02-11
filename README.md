@@ -1,5 +1,5 @@
 # my-coding-journey
-hii! here are all my projects from FreeCodeCamp! its my mini portfolio :)). note: some images and elements are not mine; credits to ownerr &lt;3
+hii! 😊 here are all my projects from FreeCodeCamp! its my mini portfolio :)). note: some images and elements are not mine; credits to ownerr &lt;3
 
 i started my FreeCodeCamp journey on Jan. 16, but i've been coding before that. 
 i've made several games on Scratch and Tinker. here's a link to my game entitled "I Love to Preach" : https://scratch.mit.edu/projects/1186797575
@@ -14,5 +14,5 @@ thanks for stopping by and hope u can visit me again for updates hehe
 
 bye!!
 
-- erica, isfj - t, 18 f
+- erica, isfj - t, 18 f 💕
   (last update: feb. 2026)
