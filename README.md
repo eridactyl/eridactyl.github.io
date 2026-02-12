@@ -15,4 +15,7 @@ thanks for stopping by and hope u can visit me again for updates hehe
 bye!!
 
 - erica, isfj - t, 18 f 💕
-  (last update: feb. 2026)
+  (last README update: feb. 2026)
+
+  currently learning: CSS
+  finished course: HTML
